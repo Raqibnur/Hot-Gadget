@@ -1,0 +1,67 @@
+.navbar-brand img{
+    width: 140px;
+}
+.banner-section{
+    background-image: url(img/dooted-qube.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 8%;
+}
+.carousel-item{
+    background-image: url(img/product-text.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 5%;
+    padding-bottom: 50px;
+}
+.carousel-indicators li{
+    background-color:#CECECE ;
+    height: 10px;
+    width: 16px;
+    border-radius: 6px;
+    border: none;
+}
+.carousel-indicators .active{
+    background-image: linear-gradient(to right, #FF9C35, #FFD019);
+    width: 45px;
+}
+.product-card-title a{
+    color: #FF9D00;
+    font-weight: 700;
+}
+.card{
+    border: none;
+    box-shadow: 0 5px 20px rgba(109, 109, 109, 0.12);
+    border-radius: 10px;
+}
+.card img{
+    padding-top: 30px;
+    width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.color-bar{
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 5px;
+    background-image: linear-gradient(to right, #FF9C35, #FFD019);
+    border-radius: 10px;
+}
+.single-card{
+    text-align: center;
+    border-radius: 0 20px 0 20px;
+}
+.single-card a{
+    color: black;
+}
+.cat-img{
+    width: 100%;
+}
+.newslatter{
+    background-color: #FFC107;
+}
+footer img{
+    width: 100px;
+}
